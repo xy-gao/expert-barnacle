@@ -7,8 +7,7 @@ from pytorch_lightning.core.lightning import LightningModule
 from torch.utils.data import DataLoader, Dataset
 from torchvision import transforms
 
-from dominant_colors import BaseImageGenerator
-
+from .dominant_colors import BaseImageGenerator
 from .style_model import VGGStyleModel
 
 
