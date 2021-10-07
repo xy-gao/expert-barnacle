@@ -4,7 +4,7 @@ Clone this repository
 
 ```
 $ cd expert-barnacle
-$ pip install texture_gen
+$ pip install ./texture_gen
 ```
 
 # Usage
